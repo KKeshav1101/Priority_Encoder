@@ -12,12 +12,12 @@ class Task{
 		this.due_date=due_date;
 		this.weight=weight;
 	}
-	public string toString(){
+	public String toString(){
 		return "\nTask Description :"+task_desc+
 			"\nTask Type :"+task_type+
 			"\nTask Date :"+task_date+
-			"\nDue Date :"+due_date;
-			"\nWeight"
+			"\nDue Date :"+due_date+
+			"\nWeight :"+weight;
 	}
 }
 class TaskSet{
