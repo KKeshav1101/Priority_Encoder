@@ -10,7 +10,7 @@ class Account{
 		this.gender = gender;
 	}
 	
-	public toString(){
+	public String toString(){
 		return "User Details\nName: "+name+"\nAge: "+age+"\nGender: "+gender;
 	}
 	public void addTaskSet(TaskSet ts){
