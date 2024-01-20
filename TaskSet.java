@@ -21,9 +21,14 @@ class Task{
 	}
 }
 class TaskSet{
+	String title;
 	ArrayList<Task> tasklist;
 	TaskSet(){
+		title="Untitled-TaskSet";
 		tasklist=new ArrayList<Task>();
+	}
+	TaskSet(String title){
+		this.title=title;
 	}
 	void display(){
 		for(Task ts:tasklist){
