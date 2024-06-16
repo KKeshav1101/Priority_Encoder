@@ -37,7 +37,7 @@
 <h3>Applications</h3>
 <ul>
   <li>Workplace : Employer can efficiently assign tasks and ensure time is spent more appropriately on important tasks </li>
-  <li>Academia : Can help with students Time management</li>
+  <li>Academia : Can help with students' Time management</li>
   <li>Should Increase Productivity and improve work life balance because an algorithm helps you decide where to start :) !</li>
 </ul>
 <h3>Scope for improvement</h3>
