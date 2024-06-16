@@ -1,2 +1,2 @@
 # Priority_Encoder
-To-Do App- Task weight prediction and sorting based on weights
+> A fullstack application mimicking a To-Do App but optimising it to improve productivity by predicting the relative importance of each task.
