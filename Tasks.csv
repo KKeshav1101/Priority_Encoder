@@ -1,0 +1,21 @@
+username,taskset_name,current_time,due_time,brief_desc,task_type,hrs_left2,weight
+Admin,Taskset1,06-06-2024 16:04,08-06-2024 16:16,Python course assignment,Co-curricular,120.4889583,6
+Admin,Taskset1,06-06-2024 16:04,09-06-2024 17:30,DBMS assignment,Academics,183.5722917,7
+Admin,Taskset1,06-06-2024 16:04,06-06-2024 17:30,DAA assignment,Academics,3.572291667,10
+Admin,Taskset1,06-06-2024 16:04,06-07-2024 17:30,Web dev project,Co-curricular,1803.572292,5
+Admin,Taskset1,06-06-2024 16:04,06-06-2024 17:30,Club meeting,Extra-curricular,3.572291667,5
+Admin,Taskset1,06-06-2024 16:04,06-06-2024 20:30,ML online meet,Co-curricular,11.07229167,6
+Admin,Taskset1,06-06-2024 16:04,07-06-2024 17:30,Amazon Hackathon coding round,Co-curricular,63.57229167,8
+Admin,Taskset1,06-06-2024 16:04,06-06-2024 23:30,Google Hackathon coding round,Co-curricular,18.57229167,8
+Admin,Taskset1,06-06-2024 16:04,08-06-2024 17:30,JP Morgan coding round,Co-curricular,123.5722917,8
+Admin,Taskset1,06-06-2024 16:04,11-06-2024 11:59,Order birthday gift,Personal,289.780625,3
+Admin,Taskset1,06-06-2024 16:04,06-06-2024 16:30,Run shopping errands,Personal,1.072291667,6
+Admin,Taskset1,06-06-2024 16:04,06-06-2024 17:30,Personal Blog entry,Extra-curricular,3.572291667,5
+Admin,Taskset1,06-06-2024 16:04,06-06-2024 17:30,Professional Blog entry,Co-curricular,3.572291667,7
+Admin,Taskset1,06-06-2024 16:04,06-06-2024 23:59,Leetcode,Co-curricular,19.780625,10
+Admin,Taskset1,06-06-2024 16:04,13-06-2024 17:30,Study for CIA,Academics,423.5722917,9
+Admin,Taskset1,06-06-2024 16:04,06-07-2024 17:30,Study for end sem,Academics,1803.572292,10
+Admin,Taskset1,06-06-2024 16:04,06-06-2024 21:30,Wash clothes,Personal,13.57229167,4
+Admin,Taskset1,06-06-2024 16:04,06-06-2024 23:59,Codechef,Co-curricular,19.780625,10
+Admin,Taskset1,06-06-2024 16:04,06-06-2024 23:59,Hackerrank,Co-curricular,19.780625,10
+Admin,Taskset1,06-06-2024 16:04,20-06-2024 17:30,Athletic Meet,Extra-curricular,843.5722917,5
