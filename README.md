@@ -3,8 +3,8 @@
 <br>
 <h3>Creators</h3>
 <ul>
-<li><a href="https://github.com/KKeshav1101">Keshav Kannan</a></li>
 <li><a href="https://github.com/SanjalaR">Sanjala Ramesh</a></li>
+<li><a href="https://github.com/KKeshav1101">Keshav Kannan</a></li>
 </ul>
 <br>
 <h3>Stack used</h3>
