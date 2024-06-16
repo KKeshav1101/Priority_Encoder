@@ -1,5 +1,10 @@
 # Priority_Encoder
-> A fullstack application mimicking a To-Do App but optimising it to improve productivity by predicting the relative importance of each task.<br>
+> A fullstack application mimicking a To-Do App but optimising it to improve productivity by predicting the relative importance of each task.<br> 
+Creators
+<ul>
+<li><a href="https://github.com/KKeshav1101">Keshav Kannan</a></li>
+<li><a href="https://github.com/SanjalaR">Sanjala Ramesh</a></li>
+</ul>
 <br>
 <h3>Stack used</h3>
 <ul>
