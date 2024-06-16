@@ -1,6 +1,11 @@
 # Priority_Encoder
 > A fullstack application mimicking a To-Do App but optimising it to improve productivity by predicting the relative importance of each task.<br>
 <br>
+<h3>Stack used</h3>
+<ul>
+  <li>python- pandas, tensorflow, scikit-learn</li>
+  <li>html, css, javascript, bootstrap</li>
+</ul>
 <h3>Workflow Diagram</h3>
 <br>
 <br>
