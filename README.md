@@ -17,14 +17,14 @@
 </ul>
 <h3>Remaining Tasks</h3>
 <ul>
-  <li>Incorprate NLP into the first model</li>
+  <li>Incorporate NLP into the first model</li>
   <li>Build the second model</li>
   <li>Scale up the dataset</li>
   <li>Finish the interface</li>
 </ul>
 <h3>Applications</h3>
 <ul></ul>
-<h3>Scope for improvemt</h3>
+<h3>Scope for improvement</h3>
 <ul></ul>
 <h3>Drawbacks</h3>
 <ul></ul>
