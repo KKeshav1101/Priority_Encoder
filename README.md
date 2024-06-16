@@ -12,15 +12,15 @@
 
 <h3>Dataset Schema</h3>
 <ul>
-  <li>task_id : primary_key int </li>
+  <li>Task_id : primary_key int </li>
   <li>Account_Name : String </li>
   <li>Current_datetime : datetime</li>
   <li>Due_datetime : datetime</li>
   <li>Brief_Description : String</li>
   <li>Task_type : Category</li>
-  <li>hours_left : hrs in decimal</li>
-  <li>weight : int in range(10)</li>
-  <li>completed : boolean</li>
+  <li>Hours_left : hrs in decimal (derived)</li>
+  <li>Weight : int in range(10)(derived)</li>
+  <li>Completed : boolean</li>
 </ul>
 <h3>Current Status</h3>
 <ul>
