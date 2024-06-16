@@ -4,6 +4,6 @@
 Workflow Diagram
 <br>
 <br>
-![Workflow Diagram (2)](https://github.com/KKeshav1101/Priority_Encoder/assets/144262889/dd8b1feb-79f0-47cc-9d7d-b38747316960)
+![Workflow_Diagram_(2) 2](https://github.com/KKeshav1101/Priority_Encoder/assets/122164516/e6962a94-66b1-4b6b-8638-d1ebbcaa9e0b)
 <br>
 <br>
