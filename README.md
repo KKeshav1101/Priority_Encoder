@@ -35,8 +35,18 @@
   <li>Finish the interface</li>
 </ul>
 <h3>Applications</h3>
-<ul></ul>
+<ul>
+  <li>Workplace : Employer can efficiently assign tasks and ensure time is spent more appropriately on important tasks </li>
+  <li>Academia : Can help with students Time management</li>
+  <li>Should Increase Productivity and improve work life balance because an algorithm helps you decide where to start :) !</li>
+</ul>
 <h3>Scope for improvement</h3>
-<ul></ul>
+<ul>
+  <li>The interface can be more friendly</li>
+  <li>The dataset can be personalised better</li>
+</ul>
 <h3>Drawbacks</h3>
-<ul></ul>
+<ul>
+  <li>Model will take time to give personalised predictions</li>
+  <li>Too many input fields to enter may test your patience</li>
+</ul>
