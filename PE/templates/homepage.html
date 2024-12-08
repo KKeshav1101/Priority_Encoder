@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    Heyy {{qs.username}}
+    <button><a href="/home">Logout</a></button>
+    <form method="POST" action="/homepage">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value="Add Task">
+    </form>
+    <h3>Assigned</h3>
+    <table>
+        <tr>
+            <td>
+                Description
+            </td>
+            <td>
+                Type
+            </td>
+            <td>
+                Weight
+            </td>
+            <td>
+                Date
+            </td>
+            <td>
+                Due Date
+            </td>
+        </tr>
+        {% for i in tasks %}
+        {% if not i.completed %}
+        <tr>
+            <td>{{ i.task_desc }}</td>
+            <td>{{ i.task_type }}</td>
+            <td>{{ i.task_weight }}</td>
+            <td>{{ i.task_date }}</td>
+            <td>{{ i.task_due }}</td>
+            <td><button><a href="{% url 'delete_task' i.id %}" class="btn btn-danger" style="color:red;"
+                onclick="return confirm('Are you sure you want to delete this task?');">Delete</a></button></td>
+            <td><button><a href="{% url 'mark_completed' i.id %}" class="btn" style="color:rgb(0, 166, 255);"
+                onclick="return confirm('Do you surely want to mark this task as completed?');">Mark as Complete</a></button></td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+    </table>
+    <h3>Completed Tasks</h3>
+    <table>
+        <tr>
+            <td>
+                Description
+            </td>
+            <td>
+                Type
+            </td>
+            <td>
+                Weight
+            </td>
+            <td>
+                Date
+            </td>
+            <td>
+                Due Date
+            </td>
+        </tr>
+        {% for i in tasks %}
+        {% if i.completed %}
+        <tr>
+            <td>{{ i.task_desc }}</td>
+            <td>{{ i.task_type }}</td>
+            <td>{{ i.task_weight }}</td>
+            <td>{{ i.task_date }}</td>
+            <td>{{ i.task_due }}</td>
+            <td><button><a href="{% url 'delete_task' i.id %}" class="btn btn-danger" style="color:red;"
+                onclick="return confirm('Are you sure you want to delete this task?');">Delete</a></button></td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+    </table>
+</body>
+</html>
