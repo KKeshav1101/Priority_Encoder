@@ -29,18 +29,6 @@
   <li>Weight : int in range(10)(derived)</li>
   <li>Completed : boolean</li>
 </ul>
-<h3>Current Status</h3>
-<ul>
-  <li>Built First model : for weight prediction</li>
-  <li>Built basic GUI tkinter</li>
-</ul>
-<h3>Remaining Tasks</h3>
-<ul>
-  <li>Incorporate NLP into the first model</li>
-  <li>Build the second model</li>
-  <li>Scale up the dataset</li>
-  <li>Finish the interface</li>
-</ul>
 <h3>Applications</h3>
 <ul>
   <li>Workplace : Employer can efficiently assign tasks and ensure time is spent more appropriately on important tasks </li>
