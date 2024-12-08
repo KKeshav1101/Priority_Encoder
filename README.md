@@ -10,7 +10,7 @@
 <br>
 <h3>Stack used</h3>
 <ul>
-  <li>python- pandas, tensorflow, scikit-learn</li>
+  <li>python- pandas, tensorflow, scikit-learn, Django</li>
   <li>html, css, javascript, bootstrap</li>
 </ul>
 <h3>Workflow Diagram</h3>
