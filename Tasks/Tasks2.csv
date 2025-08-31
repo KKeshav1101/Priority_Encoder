@@ -1,0 +1,51 @@
+taskid, accountname, current_datetime, due_datetime, brief_desc, task_type, hours_left, weight, completed
+1, StudentA, 2024-06-23 08:00:00, 2024-06-23 12:00:00, Math homework, Curricular, 4, 10, false
+2, StudentA, 2024-06-23 09:30:00, 2024-06-23 11:30:00, Reading assignment, Curricular, 10, 7, false
+3, StudentA, 2024-06-23 12:00:00, 2024-06-23 14:00:00, Lunch break, Personal, 2, 2, false
+4, StudentA, 2024-06-23 14:30:00, 2024-06-23 16:00:00, Science project research, Curricular, 15, 8, false
+5, StudentA, 2024-06-23 16:30:00, 2024-06-23 18:30:00, Soccer practice, Extra-Curricular, 20, 4, false
+6, StudentA, 2024-06-23 19:00:00, 2024-06-23 21:00:00, Dinner with family, Personal, 2, 2, false
+7, StudentA, 2024-06-23 21:30:00, 2024-06-23 23:00:00, English essay, Curricular, 1.5, 9, false
+8, StudentA, 2024-06-23 23:30:00, 2024-06-24 01:00:00, Prepare for tomorrow's presentation, Curricular, 24, 6, false
+9, StudentA, 2024-06-24 08:00:00, 2024-06-24 10:00:00, Morning jog, Personal, 2, 4, false
+10, StudentA, 2024-06-24 10:30:00, 2024-06-24 13:00:00, History quiz preparation, Curricular, 30, 7, false
+11, StudentA, 2024-06-24 13:30:00, 2024-06-24 15:30:00, Lunch break, Personal, 2, 2, false
+12, StudentA, 2024-06-24 16:00:00, 2024-06-24 18:00:00, Group project meeting, Curricular, 25, 8, false
+13, StudentA, 2024-06-24 18:30:00, 2024-06-24 20:30:00, Piano practice, Extra-Curricular, 22, 6, false
+14, StudentA, 2024-06-24 21:00:00, 2024-06-24 23:00:00, Physics homework, Curricular, 50, 10, false
+15, StudentA, 2024-06-24 23:30:00, 2024-06-25 01:00:00, Relax and unwind, Personal, 1.5, 2, false
+16, StudentA, 2024-06-25 08:00:00, 2024-06-25 10:00:00, Chemistry lab report, Curricular, 2, 10, false
+17, StudentA, 2024-06-25 10:30:00, 2024-06-25 12:00:00, History lecture notes, Curricular, 12, 6, false
+18, StudentA, 2024-06-25 12:30:00, 2024-06-25 14:30:00, Art class, Co-Curricular, 35, 4, false
+19, StudentA, 2024-06-25 15:00:00, 2024-06-25 17:00:00, Meeting with tutor, Curricular, 8, 8, false
+20, StudentA, 2024-06-25 17:30:00, 2024-06-25 19:00:00, Gym workout, Extra-Curricular, 10, 4, false
+21, StudentA, 2024-06-25 19:30:00, 2024-06-25 21:00:00, Dinner, Personal, 1.5, 2, false
+22, StudentA, 2024-06-25 21:30:00, 2024-06-25 23:00:00, French homework, Curricular, 5, 8, false
+23, StudentA, 2024-06-26 08:00:00, 2024-06-26 10:00:00, Math test preparation, Curricular, 55, 10, false
+24, StudentA, 2024-06-26 10:30:00, 2024-06-26 12:00:00, Science experiment, Co-Curricular, 1.5, 6, false
+25, StudentA, 2024-06-26 12:30:00, 2024-06-26 14:00:00, Lunch break, Personal, 1.5, 2, false
+26, StudentA, 2024-06-26 14:30:00, 2024-06-26 16:00:00, Chemistry revision, Curricular, 18, 8, false
+27, StudentA, 2024-06-26 16:30:00, 2024-06-26 18:00:00, Swim practice, Extra-Curricular, 5, 4, false
+28, StudentA, 2024-06-26 18:30:00, 2024-06-26 20:00:00, Volunteer work, Extra-Curricular, 70, 6, false
+29, StudentA, 2024-06-26 20:30:00, 2024-06-26 22:00:00, Music practice, Extra-Curricular, 45, 4, false
+30, StudentA, 2024-06-26 22:30:00, 2024-06-26 23:59:00, Reading, Personal, 2, 2, false
+31, StudentA, 2024-06-27 08:00:00, 2024-06-27 10:00:00, Math homework, Curricular, 3, 10, false
+32, StudentA, 2024-06-27 10:30:00, 2024-06-27 12:00:00, Science project, Curricular, 6, 8, false
+33, StudentA, 2024-06-27 12:30:00, 2024-06-27 14:00:00, Lunch, Personal, 1.5, 2, false
+34, StudentA, 2024-06-27 14:30:00, 2024-06-27 16:00:00, History essay, Curricular, 4, 8, false
+35, StudentA, 2024-06-27 16:30:00, 2024-06-27 18:00:00, Gym session, Extra-Curricular, 8, 4, false
+36, StudentA, 2024-06-27 18:30:00, 2024-06-27 20:00:00, Debate practice, Co-Curricular, 1.5, 6, false
+37, StudentA, 2024-06-27 20:30:00, 2024-06-27 22:00:00, Dinner with friends, Personal, 1.5, 2, false
+38, StudentA, 2024-06-27 22:30:00, 2024-06-27 23:59:00, Reading, Personal, 2, 2, false
+39, StudentA, 2024-06-28 08:00:00, 2024-06-28 10:00:00, Physics revision, Curricular, 12, 8, false
+40, StudentA, 2024-06-28 10:30:00, 2024-06-28 12:00:00, Chemistry lab, Co-Curricular, 1.5, 6, false
+41, StudentA, 2024-06-28 12:30:00, 2024-06-28 14:00:00, Lunch, Personal, 1.5, 2, false
+42, StudentA, 2024-06-28 14:30:00, 2024-06-28 16:00:00, Art project, Co-Curricular, 5, 6, false
+43, StudentA, 2024-06-28 16:30:00, 2024-06-28 18:00:00, Basketball practice, Extra-Curricular, 6, 4, false
+44, StudentA, 2024-06-28 18:30:00, 2024-06-28 20:00:00, Music practice, Extra-Curricular, 12, 4, false
+45, StudentA, 2024-06-28 20:30:00, 2024-06-28 22:00:00, Dinner, Personal, 1.5, 2, false
+46, StudentA, 2024-06-28 22:30:00, 2024-06-28 23:59:00, Reading, Personal, 2, 2, false
+47, StudentA, 2024-06-29 08:00:00, 2024-06-29 10:00:00, Math quiz preparation, Curricular, 7, 10, false
+48, StudentA, 2024-06-29 10:30:00, 2024-06-29 12:00:00, Science lab report, Curricular, 2, 8, false
+49, StudentA, 2024-06-29 12:30:00, 2024-06-29 14:00:00, Lunch, Personal, 1.5, 2, false
+50, StudentA, 2024-06-29 14:30:00, 2024-06-29 16:00:00, Gym workout, Extra-Curricular, 15, 4, false
