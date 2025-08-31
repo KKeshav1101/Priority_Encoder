@@ -2,7 +2,7 @@
 import numpy as np
 import pandas as pd
 
-df = pd.read_csv("Tasks\\Tasks2.csv")
+df = pd.read_csv("Tasks/Tasks2.csv")
 
 
 X = df.iloc[:,:-2].values
