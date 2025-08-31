@@ -7,7 +7,7 @@ import os
 from django.conf import settings
 from Tasks.modeltesting import prep
 # Load the model
-file=open('Tasks\\pe.pkl','rb')
+file=open('Tasks/pe.pkl','rb')
 model = pickle.load(file)
 
 def predict_task_weight(raw):
